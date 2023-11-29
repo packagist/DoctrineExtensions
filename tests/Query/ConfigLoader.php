@@ -9,12 +9,6 @@ class ConfigLoader
 {
     const MYSQL    = 'mysql';
 
-    const ORACLE   = 'oracle';
-
-    const POSTGRES = 'postgres';
-
-    const SQLITE   = 'sqlite';
-
     /**
      * @param Configuration $configuration
      * @param string        $database
